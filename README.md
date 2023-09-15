@@ -4,6 +4,7 @@ I come from India. I pursued my bachelor's degree in Computer Engineering. I als
 
 ## About
 
+![Me](/_readme/milin-vaniyawala.jpg)
 I am a front-end developer with industry experience building websites and web applications. I specialize in JavaScript and React JS and have professional experience working with PHP.
 
 ## Education
@@ -24,3 +25,7 @@ I am a front-end developer with industry experience building websites and web ap
 | :----------- | :--------------------------------------------: | -------------: |
 | NV Diamonds  |     [Nv Diamonds](https://nvdiamonds.in/)      | WordPress, PHP |
 | ChitChatChai | [Chit Chat Chai](https://www.chitchatchai.in/) | WordPress, PHP |
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/milin-vaniyawala-510aa7141/)
