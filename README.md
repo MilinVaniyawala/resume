@@ -20,7 +20,7 @@ I am a front-end developer with industry experience building websites and web ap
 
 ## Project
 
-| Title        |               URL               |     Technology |
-| :----------- | :-----------------------------: | -------------: |
-| NV Diamonds  |    (#https://nvdiamonds.in/)    | WordPress, PHP |
-| ChitChatChai | (#https://www.chitchatchai.in/) | WordPress, PHP |
+| Title        |                      URL                       |     Technology |
+| :----------- | :--------------------------------------------: | -------------: |
+| NV Diamonds  |     [Nv Diamonds](https://nvdiamonds.in/)      | WordPress, PHP |
+| ChitChatChai | [Chit Chat Chai](https://www.chitchatchai.in/) | WordPress, PHP |
