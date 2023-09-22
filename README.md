@@ -4,7 +4,7 @@ I come from India. I pursued my bachelor's degree in Computer Engineering. I als
 
 ## About
 
-<img src="/_readme/milin-vaniyawala.jpg" width="400" height="100">
+<img src="/_readme/milin-vaniyawala.jpg" width="400">
 I am a front-end developer with industry experience building websites and web applications. I specialize in JavaScript and React JS and have professional experience working with PHP.
 
 ## Education
