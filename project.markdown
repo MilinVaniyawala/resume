@@ -4,6 +4,4 @@
 
 This is project Page.
 
-#
-
-:copyright: All copyrights reserved to Milin Vaniyawala
+© All copyrights reserved to Milin Vaniyawala

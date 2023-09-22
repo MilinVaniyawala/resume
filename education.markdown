@@ -4,6 +4,4 @@
 
 This is education page..
 
-#
-
-:copyright: All copyrights reserved to Milin Vaniyawala
+© All copyrights reserved to Milin Vaniyawala
