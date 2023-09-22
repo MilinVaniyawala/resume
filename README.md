@@ -9,7 +9,7 @@ I am a front-end developer with industry experience building websites and web ap
 
 ## Education
 
-- I just get admission at Humber College for Web Development Course.
+- I just got admission to Humber College for the Web Development Course.
 - I also completed my bachelor's degree in Computer Engineering from India.
 - In addition, I have given some assessment tests on Linkedin, such as HTML, and PHP.
 
